@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-public class SimpleHighScore
+public class HighScore
 {
 	public static int get_current(String name = null) {
 		var filename = name;
